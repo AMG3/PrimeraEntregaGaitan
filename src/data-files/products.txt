@@ -1,0 +1,12 @@
+[
+  {
+    "title": "ggghggh787878",
+    "price": 877878,
+    "description": "hhjjhjh",
+    "code": "7878",
+    "stock": 7878,
+    "thumbnail": "http://localhost:8080/images/1657760301041.jpeg",
+    "id": 1,
+    "timestamp": 1657760301053
+  }
+]
